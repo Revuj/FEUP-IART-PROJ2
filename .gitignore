@@ -1,1 +1,2 @@
-*.sqlite
+database.sqlite
+.ipynb_checkpoints/*
