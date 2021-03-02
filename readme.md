@@ -1,6 +1,4 @@
-==================
-=== How to Run ===
-==================
+[Link to Paper](https://www.joaovarela.me/paper.pdf)
 
 Install dependencies:
 
